@@ -4,7 +4,7 @@ import {MdDeleteForever} from "react-icons/md";
 
 const Note = ({id,body, date,deleteNote}) => {
     return (
-        <div className='note' key={id}>
+        <div className='note'>
 
             <span> {body}</span>
 

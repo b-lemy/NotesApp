@@ -6,14 +6,14 @@ export default [
     {
         id: nanoid(),
 
-        body: "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nrepr",
+        body: "I have to complete some tasks ",
         date: "21/10/2021"
     },
     {
 
         id: nanoid(),
 
-        body: "est rerum tempore vitae\nsequi sint nihil reprehenderit ",
+        body: "I have to pay my dues online  ",
         date: "1/11/2021"
 
     },
@@ -21,7 +21,7 @@ export default [
 
         id:nanoid(),
 
-        body: "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ",
+        body: "tomorrow is graduation date",
         date: "21/12/2022"
     },
 
